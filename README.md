@@ -1,1 +1,1 @@
-# lightpos2.guthub.io
+# Реальный проект для заказчика. Сайт - https://easyonline.by/
